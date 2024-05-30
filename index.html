@@ -49,40 +49,50 @@
 
             <section>
                 <article class="h1-dark text-light">
-                    <h1 class="mb-400">
-                        PHACronyms
-                    </h1>
-                    <p class="mb-400">The acronyms we use at the Public health Agency of Canada</p>
-                    <a class="link-light" href="#">More information</a>
+                    <div class="container-xl mx-auto">
+                        <h1 class="mb-400">
+                            PHACronyms
+                        </h1>
+                        <p class="mb-400">The acronyms we use at the Public health Agency of Canada</p>
+
+                        <a class="link-light" href="#" data-toggle="collapse" data-target="#moreInfo">More
+                            information</a>
+
+                        <div id="moreInfo" class="collapse">
+                            <p class="mb-400">The table below contains a list of acronyms that are used at PHAC and their definition. This is a work in progress and many acronyms are missing, especially French acronyms. If you'd like to contribute, please add or modify acronyms in this <a href="https://022gc.sharepoint.com/:l:/s/InformationManagement-DataManagementServicesPeopleandculture/FMqEnjlJOkVHv4f8gGzKl94BMPqawVFjzdPR_3AifMIDVA?e=ozD4Za">sharepoint list</a>. </p>
+                        </div>
+                    </div>
                 </article>
             </section>
 
             <section>
 
                 <article class="py-450">
-                    <!-- this is the HTML for the datables table -->
-                    <table id="phacronymTable" class="table table-striped" style="width:100%">
-                        <thead>
-                            <tr>
-                                <th>acronym</th>
-                                <th>definition</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                        </tbody>
-                    </table>
+                    <div class="container-xl mx-auto">
+                        <!-- this is the HTML for the datables table -->
+                        <table id="phacronymTable" class="table table-striped" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th>acronym</th>
+                                    <th>definition</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
                 </article>
             </section>
         </main>
     </div>
 
-<script src="scripts.js"></script>
-<script src="search-highlight.js"></script>
+    <script src="scripts.js"></script>
+    <script src="search-highlight.js"></script>
 
 
     <!-- Footer Web component code (Angular, Vue) -->
     <gcds-footer display="full" contextual-heading="Contextual navigation"
-        contextual-links='{ "About the PHAC Data Catalogue": "#" }'>
+        contextual-links='{ "About PHACronyms": "#" }'>
     </gcds-footer>
 
 

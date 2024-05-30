@@ -24,6 +24,10 @@
   aria-hidden: true; /* Tell screen readers to ignore it */
 }
 
+#moreInfo {
+  margin-top: var(--gcds-spacing-400);
+}
+
 a.toggle-vis:hover {
     cursor: pointer;
     text-decoration: underline;
