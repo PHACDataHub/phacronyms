@@ -1,9 +1,5 @@
 [
   {
-    "acronym": "nmso",
-    "definition": "National Master Standing Offer"
-  },
-  {
     "acronym": "aad",
     "definition": "azure active directory"
   },
@@ -16,8 +12,16 @@
     "definition": "(US) aspirin use, blood pressure control, cholesterol management, and smoking cessation"
   },
   {
+    "acronym": "ABHR(s)",
+    "definition": "Alcohol-based hand rub(s)"
+  },
+  {
     "acronym": "aca",
     "definition": "(US) Patient Protection and Affordable Care Act"
+  },
+  {
+    "acronym": "ACAN",
+    "definition": "Advance Contract Award Notice"
   },
   {
     "acronym": "accu",
@@ -40,12 +44,36 @@
     "definition": "Assistant Deputy Minister"
   },
   {
+    "acronym": "ADM",
+    "definition": "Assistant Deputy Minister"
+  },
+  {
+    "acronym": "ADMO",
+    "definition": "Assistant Deputy Minister’s Office"
+  },
+  {
+    "acronym": "AEB",
+    "definition": "Audit and Evaluation Branch"
+  },
+  {
     "acronym": "aefi",
+    "definition": "Adverse Events Following Immunization"
+  },
+  {
+    "acronym": "AEFI",
     "definition": "Adverse Events Following Immunization"
   },
   {
     "acronym": "aero",
     "definition": "All Events Response Operations"
+  },
+  {
+    "acronym": "AERO",
+    "definition": "All-Events Response Operations"
+  },
+  {
+    "acronym": "AFN",
+    "definition": "Assembly of First Nations"
   },
   {
     "acronym": "agco",
@@ -56,8 +84,16 @@
     "definition": "Annual General Meeting"
   },
   {
+    "acronym": "AGMP(s)",
+    "definition": "Aerosol-generating medical procedure(s)"
+  },
+  {
     "acronym": "ahrq",
     "definition": "(US) Agency for Healthcare Research and Quality"
+  },
+  {
+    "acronym": "AHSOR",
+    "definition": "Aboriginal Head Start on Reserve"
   },
   {
     "acronym": "ai",
@@ -66,6 +102,10 @@
   {
     "acronym": "aids",
     "definition": "Acquired immunodeficiency syndrome"
+  },
+  {
+    "acronym": "AIP",
+    "definition": "Agreement in Principle"
   },
   {
     "acronym": "alpha",
@@ -78,6 +118,14 @@
   {
     "acronym": "amr",
     "definition": "Anti-Microbial Resistance"
+  },
+  {
+    "acronym": "AMR",
+    "definition": "Antimicrobial Resistance"
+  },
+  {
+    "acronym": "AMRD",
+    "definition": "Antimicrobial Resistance Division"
   },
   {
     "acronym": "andsooha",
@@ -100,6 +148,14 @@
     "definition": "Association of Ontario Health Centres"
   },
   {
+    "acronym": "APEP",
+    "definition": "Aboriginal Peoples’ Employment Program"
+  },
+  {
+    "acronym": "APEP",
+    "definition": "Aboriginal Peoples’ Employment Program"
+  },
+  {
     "acronym": "aphc",
     "definition": "Applied Public Health Chairs"
   },
@@ -116,12 +172,28 @@
     "definition": "Alcohol Policy Network"
   },
   {
+    "acronym": "APN",
+    "definition": "Administrative Professionals Network"
+  },
+  {
+    "acronym": "APN",
+    "definition": "Administrative Professionals Network"
+  },
+  {
     "acronym": "aprg",
     "definition": "Alcohol Policy & Research Group (at Centre for Addiction and Mental Health)"
   },
   {
+    "acronym": "AQMS",
+    "definition": "Air Quality Management System"
+  },
+  {
     "acronym": "arapo",
     "definition": "Association to Reduce Alcohol Promotion in Ontario (1997-2010)"
+  },
+  {
+    "acronym": "ARLU",
+    "definition": "Annual Reference Level Update"
   },
   {
     "acronym": "arra",
@@ -136,12 +208,32 @@
     "definition": "(Ontario’s) Anti-Smog Action Plan"
   },
   {
+    "acronym": "ASD",
+    "definition": "Articulation of Selection Decision"
+  },
+  {
     "acronym": "aspc",
     "definition": "Agence de la santé publique du Canada"
   },
   {
     "acronym": "asphi-o",
     "definition": "Association for Supervisors of Public Health Inspectors of Ontario"
+  },
+  {
+    "acronym": "ATI",
+    "definition": "Access to Information"
+  },
+  {
+    "acronym": "ATIP",
+    "definition": "Access to Information and Privacy"
+  },
+  {
+    "acronym": "ATIP",
+    "definition": "Access to Information and Privacy"
+  },
+  {
+    "acronym": "ATIP",
+    "definition": "Access to Information and Privacy Acts"
   },
   {
     "acronym": "ats",
@@ -164,6 +256,14 @@
     "definition": "Branch Executive Comittee"
   },
   {
+    "acronym": "BEC",
+    "definition": "Branch Executive Committee"
+  },
+  {
+    "acronym": "BIA",
+    "definition": "Budget Implementation Act"
+  },
+  {
     "acronym": "bipoc",
     "definition": "Black, Indigenous, People of Colour"
   },
@@ -182,6 +282,10 @@
   {
     "acronym": "br",
     "definition": "Business Requirement"
+  },
+  {
+    "acronym": "BREAD",
+    "definition": "Business Renewal and Enterprise Architecture Directorate"
   },
   {
     "acronym": "bscp",
@@ -232,6 +336,14 @@
     "definition": "Clean Air Partnership"
   },
   {
+    "acronym": "CAP",
+    "definition": "Congress of Aboriginal Peoples"
+  },
+  {
+    "acronym": "CaPSA",
+    "definition": "Canada’s Plastic Science Agenda"
+  },
+  {
     "acronym": "carss",
     "definition": "Canadian Antimicrobial Resistance Surveillance System; Canadian Antimicrobial Resistance Surveillance System"
   },
@@ -242,6 +354,10 @@
   {
     "acronym": "cbcf",
     "definition": "Canadian Breast Cancer Foundation"
+  },
+  {
+    "acronym": "CBD",
+    "definition": "Convention on Biological Diversity"
   },
   {
     "acronym": "cbmi",
@@ -256,8 +372,20 @@
     "definition": "chemical, biological, radiological and nuclear"
   },
   {
+    "acronym": "CBRNE",
+    "definition": "Chemical, Biological, Radiological, Nuclear and Explosive"
+  },
+  {
     "acronym": "cbsa",
     "definition": "Canada Border Services Agency"
+  },
+  {
+    "acronym": "CCAC",
+    "definition": "Climate and Clean Air Coalition to Reduce Short-Lived Climate Pollutants"
+  },
+  {
+    "acronym": "CCAHS",
+    "definition": "Canada COVID-19 Antibody and Health Survey"
   },
   {
     "acronym": "ccasn",
@@ -280,12 +408,32 @@
     "definition": "Canadian Council of Food and Nutrition"
   },
   {
+    "acronym": "CCG",
+    "definition": "Canadian Coast Guard"
+  },
+  {
     "acronym": "cchs",
     "definition": "Canadian Community Health Survey; Canadian Community Health Survey"
   },
   {
+    "acronym": "CCHS",
+    "definition": "Canadian Community Health Survey"
+  },
+  {
+    "acronym": "CCME",
+    "definition": "Canadian Council of Ministers of the Environment"
+  },
+  {
+    "acronym": "CCMED",
+    "definition": "Canadian Coroners and Medical Examiners Database"
+  },
+  {
     "acronym": "ccmoh",
     "definition": "Council of the Chief Medical Officer's of Health"
+  },
+  {
+    "acronym": "CCMOH",
+    "definition": "Council of Chief Medical Officers of Health"
   },
   {
     "acronym": "ccnc",
@@ -300,6 +448,10 @@
     "definition": "Canadian Centre for Occupational Health and Safety"
   },
   {
+    "acronym": "CCR",
+    "definition": "Canadian Cancer Registry"
+  },
+  {
     "acronym": "ccs",
     "definition": "Canadian Cancer Society"
   },
@@ -312,8 +464,20 @@
     "definition": "Centers for Disease Control and Prevention; (US) Centers for Disease Control and Prevention"
   },
   {
+    "acronym": "CDC",
+    "definition": "Centers for Disease Control and Prevention"
+  },
+  {
+    "acronym": "CDH",
+    "definition": "Canadian Drug Store and Hospital Purchases Audit"
+  },
+  {
     "acronym": "cdo",
     "definition": "Chief Data Officer; Chief Dental Officer; College of Dietitians of Ontario"
+  },
+  {
+    "acronym": "CDO",
+    "definition": "Chief Data Officer / Chief Data Office (sometimes ODCO)"
   },
   {
     "acronym": "cdp",
@@ -332,8 +496,24 @@
     "definition": "Canadian Dietetic Registration Examination"
   },
   {
+    "acronym": "cdsb",
+    "definition": "Corporate Data and Surveillance Branch"
+  },
+  {
+    "acronym": "CDSB",
+    "definition": "Corporate Data and Surveillance Branch (Now DSFB)"
+  },
+  {
     "acronym": "cdss",
     "definition": "Canadian Drugs and Substance Strategy"
+  },
+  {
+    "acronym": "CEAA",
+    "definition": "Canadian Environmental Assessment Agency (now Impact Assessment Agency of Canada (IAAC) or Canadian Environment Assessment Act (now the Impact Assessment Act (IAA))"
+  },
+  {
+    "acronym": "CEC",
+    "definition": "Commission for Environmental Cooperation"
   },
   {
     "acronym": "ceho",
@@ -348,8 +528,28 @@
     "definition": "Chief Executive Officer"
   },
   {
+    "acronym": "CEPA",
+    "definition": "Canadian Environmental Protection Act"
+  },
+  {
     "acronym": "cepr",
     "definition": "Centre for Emergency Preparedness and Response"
+  },
+  {
+    "acronym": "CEPR",
+    "definition": "Centre for Emergency Preparedness and Response"
+  },
+  {
+    "acronym": "CERA",
+    "definition": "Canadian Energy Regulator Act"
+  },
+  {
+    "acronym": "CERIAA",
+    "definition": "Canada Emission Reduction Incentives Agency Act"
+  },
+  {
+    "acronym": "CETA",
+    "definition": "Comprehensive Economic and Trade Agreement"
   },
   {
     "acronym": "cf",
@@ -362,6 +562,10 @@
   {
     "acronym": "cfb",
     "definition": "Canadian Forces base"
+  },
+  {
+    "acronym": "CFC",
+    "definition": "Chlorofluorocarbons"
   },
   {
     "acronym": "cfdr",
@@ -378,6 +582,14 @@
   {
     "acronym": "cfia",
     "definition": "Canada Food Inspection Agency; Canadian Food Inspection Agency"
+  },
+  {
+    "acronym": "CFIA",
+    "definition": "Canadian Food Inspection Agency"
+  },
+  {
+    "acronym": "CFIA",
+    "definition": "Canadian Food Inspection Agency"
   },
   {
     "acronym": "cflri",
@@ -404,6 +616,10 @@
     "definition": "Canadian Health Measures Survey; Canadian Health Measures Survey"
   },
   {
+    "acronym": "CHMS",
+    "definition": "Canadian Health Measures Survey"
+  },
+  {
     "acronym": "chn",
     "definition": "Canadian Health Network"
   },
@@ -424,12 +640,20 @@
     "definition": "Canada Health Survey on Children and Youth"
   },
   {
+    "acronym": "CHSCY",
+    "definition": "Canadian Health Survey on Children and Youth"
+  },
+  {
     "acronym": "chso",
     "definition": "Chief Health Science Officer"
   },
   {
     "acronym": "chss",
     "definition": "Canadian Health Survey on Seniors"
+  },
+  {
+    "acronym": "CHSS",
+    "definition": "Canada Health Senior Survey"
   },
   {
     "acronym": "cib",
@@ -440,11 +664,27 @@
     "definition": "Canadian Institute for Health Information; Canadian Institute for Health Information"
   },
   {
+    "acronym": "CIHI",
+    "definition": "Canadian Institute for Health Information"
+  },
+  {
     "acronym": "cihr",
     "definition": "Canadian Institutes of Health Research; Canadian Institutes of Health Research"
   },
   {
+    "acronym": "CIHR",
+    "definition": "Canadian Institutes of Health Research"
+  },
+  {
+    "acronym": "CIHR",
+    "definition": "Canadian Institutes of Health Research"
+  },
+  {
     "acronym": "cio",
+    "definition": "Chief Information Officer"
+  },
+  {
+    "acronym": "CIO",
     "definition": "Chief Information Officer"
   },
   {
@@ -460,8 +700,20 @@
     "definition": "Centre for Immunization and Respiratory Infectious Diseases"
   },
   {
+    "acronym": "CIRN",
+    "definition": "Canadian Immunization Research Network"
+  },
+  {
+    "acronym": "CIRNA",
+    "definition": "Crown-Indigenous Relations and Northern Affairs"
+  },
+  {
     "acronym": "cirn-sos",
     "definition": "Canadian Immunization Research Network Severe Outcome Surveillance"
+  },
+  {
+    "acronym": "CITES",
+    "definition": "Convention on International Trade in Endangered Species of Wildlife Flora and Fauna"
   },
   {
     "acronym": "ciu",
@@ -474,6 +726,18 @@
   {
     "acronym": "cjdss",
     "definition": "Creutzfeldt-Jakob Disease Surveillance System"
+  },
+  {
+    "acronym": "CLRB",
+    "definition": "Cannabis Legalization and Regulation Branch"
+  },
+  {
+    "acronym": "CLRTAR",
+    "definition": "Convention on Long-range Transboundary Air Pollution"
+  },
+  {
+    "acronym": "CLTS",
+    "definition": "Cannabis Legalization and Tracking System"
   },
   {
     "acronym": "cmha",
@@ -500,7 +764,15 @@
     "definition": "Canadian Nosocomial Infection Surveillance Program"
   },
   {
+    "acronym": "CNPA",
+    "definition": "Canadian National Parks Act"
+  },
+  {
     "acronym": "cnphi",
+    "definition": "Canadian Network for Public Health Intelligence"
+  },
+  {
+    "acronym": "CNPHI",
     "definition": "Canadian Network for Public Health Intelligence"
   },
   {
@@ -524,6 +796,10 @@
     "definition": "Community of Practice"
   },
   {
+    "acronym": "COP",
+    "definition": "Conference of the Parties"
+  },
+  {
     "acronym": "copc",
     "definition": "(US) community-oriented primary care"
   },
@@ -534,6 +810,10 @@
   {
     "acronym": "cors",
     "definition": "Central Online Reporting System"
+  },
+  {
+    "acronym": "COSEWIC",
+    "definition": "Committee on the Status of Endangered Wildlife in Canada"
   },
   {
     "acronym": "covid",
@@ -560,6 +840,10 @@
     "definition": "Centre for Public Health Infrastructure"
   },
   {
+    "acronym": "CPHLN",
+    "definition": "Canadian Public Health Laboratory Network"
+  },
+  {
     "acronym": "cpho",
     "definition": "Chief Public Health Officer"
   },
@@ -570,6 +854,10 @@
   {
     "acronym": "cphsp",
     "definition": "Canadian Population Health Statistics Program"
+  },
+  {
+    "acronym": "CPIP",
+    "definition": "Canadian Pandemic Influenza Preparedness: Planning Guidance for the Health Sector"
   },
   {
     "acronym": "cpma",
@@ -592,6 +880,10 @@
     "definition": "Canadian Paediatric Surveillance Program; Canadian Perinatal Surveillance System"
   },
   {
+    "acronym": "CPTPP",
+    "definition": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership"
+  },
+  {
     "acronym": "cqco",
     "definition": "Cancer Quality Council of Ontario"
   },
@@ -604,8 +896,16 @@
     "definition": "change request"
   },
   {
+    "acronym": "CR",
+    "definition": "Committee Recommendation"
+  },
+  {
     "acronym": "crc",
     "definition": "Communications Research Centre Canada"
+  },
+  {
+    "acronym": "CRC",
+    "definition": "Crisis Referral Centre"
   },
   {
     "acronym": "crcc",
@@ -620,6 +920,10 @@
     "definition": "Canadian Measles/Rubella Surveillance System"
   },
   {
+    "acronym": "CS",
+    "definition": "Canadian CompuScript"
+  },
+  {
     "acronym": "csap",
     "definition": "Cyber Security Applications Portal"
   },
@@ -629,6 +933,10 @@
   },
   {
     "acronym": "csb",
+    "definition": "Corporate Services Branch"
+  },
+  {
+    "acronym": "CSB",
     "definition": "Corporate Services Branch"
   },
   {
@@ -648,7 +956,19 @@
     "definition": "Canadian Society for Exercise Physiology"
   },
   {
+    "acronym": "CSFB",
+    "definition": "Corporate Services and Finance Branch"
+  },
+  {
+    "acronym": "CSGVP",
+    "definition": "Canada Survey of Giving Volunteering and Participating"
+  },
+  {
     "acronym": "cso",
+    "definition": "Chief Science Officer"
+  },
+  {
+    "acronym": "CSO",
     "definition": "Chief Science Officer"
   },
   {
@@ -668,6 +988,10 @@
     "definition": "Canadian Tobacco Use Monitoring Survey"
   },
   {
+    "acronym": "CUSMA",
+    "definition": "Canada-United States-Mexico Agreement"
+  },
+  {
     "acronym": "cvd",
     "definition": "Cardiovascular Disease"
   },
@@ -676,8 +1000,28 @@
     "definition": "CoVid Response. Every traveller gets assigned one number each time they enter into Canada"
   },
   {
+    "acronym": "CVSB",
+    "definition": "Birth Data"
+  },
+  {
+    "acronym": "CVSD",
+    "definition": "Death Data"
+  },
+  {
+    "acronym": "CVSS",
+    "definition": "Stillbirth Data"
+  },
+  {
     "acronym": "cwa",
     "definition": "Compensation Web Applications"
+  },
+  {
+    "acronym": "CWA",
+    "definition": "Canadia Wildlife Act"
+  },
+  {
+    "acronym": "CWS",
+    "definition": "Canadian Wildlife Service"
   },
   {
     "acronym": "dac",
@@ -686,6 +1030,10 @@
   {
     "acronym": "dad",
     "definition": "Discharge Abstract Database metadata"
+  },
+  {
+    "acronym": "DAD",
+    "definition": "Discharge Abstract Database"
   },
   {
     "acronym": "db",
@@ -724,8 +1072,24 @@
     "definition": "Data Extraction and Analysis; Dual-energy X-ray absorptiometry"
   },
   {
+    "acronym": "DFA",
+    "definition": "Direct fluorescence assays"
+  },
+  {
+    "acronym": "DFO",
+    "definition": "Department of Fisheries and Oceans"
+  },
+  {
     "acronym": "dg",
     "definition": "Director General"
+  },
+  {
+    "acronym": "DG",
+    "definition": "Director General"
+  },
+  {
+    "acronym": "DGO",
+    "definition": "Director General's Office"
   },
   {
     "acronym": "dhi",
@@ -740,8 +1104,28 @@
     "definition": "Deputy Minister"
   },
   {
+    "acronym": "DM",
+    "definition": "Deputy Minister"
+  },
+  {
+    "acronym": "DMIA",
+    "definition": "Centre for Data Management, Innovation and Analytics"
+  },
+  {
+    "acronym": "DMO",
+    "definition": "Deputy Minister’s Office"
+  },
+  {
+    "acronym": "DMO",
+    "definition": "Deputy Minister’s Office"
+  },
+  {
     "acronym": "dnd",
     "definition": "Department of National Defense"
+  },
+  {
+    "acronym": "DoJ",
+    "definition": "Department of Justice"
   },
   {
     "acronym": "dophs",
@@ -750,6 +1134,10 @@
   {
     "acronym": "dos",
     "definition": "Disk Operating System; Designated Organization Screening"
+  },
+  {
+    "acronym": "DP",
+    "definition": "Departmental Plan"
   },
   {
     "acronym": "dpih",
@@ -764,6 +1152,10 @@
     "definition": "Data Quality Framework"
   },
   {
+    "acronym": "DRR",
+    "definition": "Departmental Results Report"
+  },
+  {
     "acronym": "dsa",
     "definition": "Data Sharing Agreement"
   },
@@ -774,6 +1166,10 @@
   {
     "acronym": "dsf",
     "definition": "Data Security Framework"
+  },
+  {
+    "acronym": "DSFB",
+    "definition": "Data, Surveillance and Foresight Branch (formerly CDSB)"
   },
   {
     "acronym": "dsr",
@@ -792,6 +1188,14 @@
     "definition": "Employee Assistance Program"
   },
   {
+    "acronym": "EAs",
+    "definition": "Environmental Assessments (now called Impact Assessments (IAs))"
+  },
+  {
+    "acronym": "EB",
+    "definition": "Enforcement Branch"
+  },
+  {
     "acronym": "ebic",
     "definition": "Economic Burden of Illness in Canada"
   },
@@ -800,12 +1204,20 @@
     "definition": "Executive Committee"
   },
   {
+    "acronym": "ECCC",
+    "definition": "Environment and Climate Change Canada"
+  },
+  {
     "acronym": "ed",
     "definition": "Executive Director"
   },
   {
     "acronym": "edu",
     "definition": "Ministry of Education, Ontario"
+  },
+  {
+    "acronym": "EEA",
+    "definition": "Environmental Enforcement Act"
   },
   {
     "acronym": "eeon",
@@ -840,12 +1252,36 @@
     "definition": "(US) Epidemic Intelligence Service"
   },
   {
+    "acronym": "emb",
+    "definition": "Emergency Management Branch"
+  },
+  {
+    "acronym": "ENEV",
+    "definition": "Standing Senate Committee on Energy, the Environment and Natural Resources"
+  },
+  {
+    "acronym": "ENGOs",
+    "definition": "Environmental Non-Governmental Organizations"
+  },
+  {
+    "acronym": "ENVI",
+    "definition": "House of Commons Standing Committee on Environment and Sustainable Development"
+  },
+  {
     "acronym": "eo",
     "definition": "emergency order"
   },
   {
     "acronym": "eod",
     "definition": "End of Day"
+  },
+  {
+    "acronym": "EPA",
+    "definition": "Environmental Protection Agency"
+  },
+  {
+    "acronym": "EPB",
+    "definition": "Environmental Protection Branch"
   },
   {
     "acronym": "epi",
@@ -864,6 +1300,10 @@
     "definition": "Esri is an international supplier of geographic information system software"
   },
   {
+    "acronym": "ESS",
+    "definition": "Emergency Social Services"
+  },
+  {
     "acronym": "et",
     "definition": "Eastern Time"
   },
@@ -876,6 +1316,18 @@
     "definition": "Environmental tobacco smoke"
   },
   {
+    "acronym": "EU",
+    "definition": "European Union"
+  },
+  {
+    "acronym": "EVAMPA",
+    "definition": "Environmental Violations Administrative Monetary Penalties Act"
+  },
+  {
+    "acronym": "FA",
+    "definition": "Fisheries Act"
+  },
+  {
     "acronym": "faq",
     "definition": "Frequently Asked Questions"
   },
@@ -884,12 +1336,20 @@
     "definition": "Fetal Alcohol Spectrum Disorder"
   },
   {
+    "acronym": "FCM",
+    "definition": "Federation of Canadian Municipalities"
+  },
+  {
     "acronym": "fhn",
     "definition": "Family health network"
   },
   {
     "acronym": "fht",
     "definition": "Family health teams"
+  },
+  {
+    "acronym": "FIN",
+    "definition": "Finance Canada"
   },
   {
     "acronym": "fip",
@@ -904,20 +1364,48 @@
     "definition": "French Language Services"
   },
   {
+    "acronym": "FNACSAR",
+    "definition": "First Nations Advisory Committee on Species at Risk"
+  },
+  {
+    "acronym": "FNIH",
+    "definition": "First Nations and Inuit Health, Health Canada"
+  },
+  {
     "acronym": "fnihb",
     "definition": "First Nations and Inuit Health"
+  },
+  {
+    "acronym": "FNIHB",
+    "definition": "First Nations and Inuit Health Branch, Health Canada"
   },
   {
     "acronym": "fobt",
     "definition": "(US) fecal occult blood test"
   },
   {
+    "acronym": "FPT",
+    "definition": "Federal/provincial/territorial"
+  },
+  {
     "acronym": "fqhc",
     "definition": "(US) federally qualified health center"
   },
   {
+    "acronym": "FRDC",
+    "definition": "Federal Research Data Centers"
+  },
+  {
     "acronym": "frsc",
     "definition": "Fellow of the Royal Society of Canada"
+  },
+  {
+    "acronym": "FSAC",
+    "definition": "Funeral Service Association of Canada"
+  },
+  {
+    "acronym": "FSDA",
+    "definition": "Federal Sustainable Development Act"
   },
   {
     "acronym": "fstr",
@@ -928,16 +1416,52 @@
     "definition": "Federal Student Work Experience Program"
   },
   {
+    "acronym": "FTA",
+    "definition": "Free Trade Agreement"
+  },
+  {
+    "acronym": "FTP",
+    "definition": "Federal, Provincial and Territorial"
+  },
+  {
     "acronym": "fyi",
     "definition": "For Your Information"
+  },
+  {
+    "acronym": "G&Cs",
+    "definition": "Grants and Contributions"
+  },
+  {
+    "acronym": "G20",
+    "definition": "Group of 20"
+  },
+  {
+    "acronym": "G7",
+    "definition": "Group of 7"
   },
   {
     "acronym": "gac",
     "definition": "Global Affairs Canada"
   },
   {
+    "acronym": "GAC",
+    "definition": "Global Affairs Canada"
+  },
+  {
     "acronym": "gc",
     "definition": "Government of Canada"
+  },
+  {
+    "acronym": "GC",
+    "definition": "Government of Canada"
+  },
+  {
+    "acronym": "GCA",
+    "definition": "Global Commission on Adaptation"
+  },
+  {
+    "acronym": "GCF",
+    "definition": "Green Climate Fund"
   },
   {
     "acronym": "gcwcc",
@@ -956,12 +1480,32 @@
     "definition": "Government Electronic Directory Services"
   },
   {
+    "acronym": "GGPPA",
+    "definition": "Greenhouse Gas Pollution Pricing Act"
+  },
+  {
+    "acronym": "GHG",
+    "definition": "Greenhouse Gas"
+  },
+  {
+    "acronym": "GIC",
+    "definition": "Governor in Council"
+  },
+  {
     "acronym": "gis",
     "definition": "Geographic Information System (maps)"
   },
   {
+    "acronym": "GISRS",
+    "definition": "Global Influenza Surveillance and Response System"
+  },
+  {
     "acronym": "gla",
     "definition": "Greater London Authority"
+  },
+  {
+    "acronym": "GLWQA",
+    "definition": "Great Lakes Water Quality Agreement"
   },
   {
     "acronym": "goarn",
@@ -988,12 +1532,32 @@
     "definition": "Government Teleconferencing Services"
   },
   {
+    "acronym": "HAI(s)",
+    "definition": "Health care-associated infection(s)"
+  },
+  {
+    "acronym": "HBSC",
+    "definition": "Healthy Behavior in School-Aged Children Survey"
+  },
+  {
     "acronym": "hc",
     "definition": "Health Canada; Health Canada"
   },
   {
+    "acronym": "HC",
+    "definition": "Health Canada"
+  },
+  {
     "acronym": "hcf",
     "definition": "Healthy Communities Fund"
+  },
+  {
+    "acronym": "HCFC",
+    "definition": "Hydro chlorofluorocarbons"
+  },
+  {
+    "acronym": "HCW(s)",
+    "definition": "Health care worker(s)"
   },
   {
     "acronym": "heal",
@@ -1016,6 +1580,10 @@
     "definition": "Heart Health"
   },
   {
+    "acronym": "HHR",
+    "definition": "Health human resources"
+  },
+  {
     "acronym": "hhrc",
     "definition": "Heart Health Resource Centre"
   },
@@ -1034,6 +1602,18 @@
   {
     "acronym": "hiv",
     "definition": "human immunodeficiency virus"
+  },
+  {
+    "acronym": "HMDB",
+    "definition": "Hospital Morbidity Database"
+  },
+  {
+    "acronym": "HMHDB",
+    "definition": "Hospital Mental Health and Substance Use databases"
+  },
+  {
+    "acronym": "HMHSU",
+    "definition": "Hospital Mental Health and Substance Use databases"
   },
   {
     "acronym": "hn",
@@ -1064,6 +1644,10 @@
     "definition": "Health Portfolio Operations Centre"
   },
   {
+    "acronym": "HPOC",
+    "definition": "Health Portfolio Operations Centre"
+  },
+  {
     "acronym": "hprc",
     "definition": "Health Promotion Resource Centre"
   },
@@ -1072,12 +1656,20 @@
     "definition": "(US) High Plains Research Network"
   },
   {
+    "acronym": "HPS",
+    "definition": "Health Promotion Survey"
+  },
+  {
     "acronym": "hpss",
     "definition": "Health Promotion Summer School (THCU)"
   },
   {
     "acronym": "hpv",
     "definition": "Human Papillomavirus"
+  },
+  {
+    "acronym": "HRB",
+    "definition": "Human Resources Branch"
   },
   {
     "acronym": "hrsa",
@@ -1100,16 +1692,44 @@
     "definition": "Risk and Capabilities Assessment team"
   },
   {
+    "acronym": "HSMA",
+    "definition": "Historic Sites and Monuments Act"
+  },
+  {
+    "acronym": "hso",
+    "definition": "Horizontal Surveillance Office"
+  },
+  {
+    "acronym": "HSO",
+    "definition": "Horizontal Surveillance Office"
+  },
+  {
     "acronym": "html",
     "definition": "Hypertext Markup Language"
+  },
+  {
+    "acronym": "HVAC",
+    "definition": "Heating, ventilation and air conditioning"
   },
   {
     "acronym": "hwhl",
     "definition": "Healthy Weights, Healthy Lives (2004 Chief Medical Officer of Health Report)"
   },
   {
+    "acronym": "IAA",
+    "definition": "Impact Assessment Act"
+  },
+  {
+    "acronym": "IAAC",
+    "definition": "Impact Assessment Agency of Canada"
+  },
+  {
     "acronym": "iaas",
     "definition": "Infrastructure-as-a-service"
+  },
+  {
+    "acronym": "IAB",
+    "definition": "International Affairs Branch"
   },
   {
     "acronym": "iapa",
@@ -1120,12 +1740,28 @@
     "definition": "International Air Transport Association"
   },
   {
+    "acronym": "ICC",
+    "definition": "Inuit Circumpolar Council"
+  },
+  {
+    "acronym": "ICCT",
+    "definition": "International Council on Clean Transportation"
+  },
+  {
     "acronym": "ices",
     "definition": "Institute for Clinical Evaluative Sciences"
   },
   {
+    "acronym": "ICHCWIPC",
+    "definition": "Impacts of COVID-19 on Health Care Workers: Infection Prevention and Control"
+  },
+  {
     "acronym": "ics",
     "definition": "International Circumpolar Surveillance"
+  },
+  {
+    "acronym": "ICU",
+    "definition": "Intensive care unit"
   },
   {
     "acronym": "idcc",
@@ -1134,6 +1770,10 @@
   {
     "acronym": "idm",
     "definition": "Interactive Domain Model"
+  },
+  {
+    "acronym": "IDPB",
+    "definition": "Infectious Diseases Programs Branch"
   },
   {
     "acronym": "idpc",
@@ -1152,12 +1792,32 @@
     "definition": "Internet Explorer; Infrastructure and Environment"
   },
   {
+    "acronym": "IFA",
+    "definition": "Immunofluorescent assay"
+  },
+  {
     "acronym": "ihr",
     "definition": "International Health Regulations"
   },
   {
+    "acronym": "IHR (2005)",
+    "definition": "International Health Regulations (2005)"
+  },
+  {
     "acronym": "ihsp",
     "definition": "Integrated Health Services Plan"
+  },
+  {
+    "acronym": "IISD",
+    "definition": "International Institute for Sustainable Development"
+  },
+  {
+    "acronym": "IJC",
+    "definition": "International Joint Commission"
+  },
+  {
+    "acronym": "ILI",
+    "definition": "Influenza-like illness"
   },
   {
     "acronym": "im",
@@ -1176,8 +1836,16 @@
     "definition": "Canada’s Immunization Monitoring Program ACTive"
   },
   {
+    "acronym": "IMPACT",
+    "definition": "Immunization Monitoring Program ACTive"
+  },
+  {
     "acronym": "imsd",
     "definition": "Information Management Services Directorate"
+  },
+  {
+    "acronym": "InFACT",
+    "definition": "International Forum for Acute Care Trialists"
   },
   {
     "acronym": "inmd",
@@ -1196,6 +1864,18 @@
     "definition": "Injury Prevention-including Substance Abuse Prevention"
   },
   {
+    "acronym": "IPC",
+    "definition": "Infection prevention and control"
+  },
+  {
+    "acronym": "IPCA",
+    "definition": "Indigenous Protected and Conserved Area"
+  },
+  {
+    "acronym": "IPCC",
+    "definition": "Intergovernmental Panel on Climate Change"
+  },
+  {
     "acronym": "ipchls",
     "definition": "Integrated Pan-Canadian Healthy Living Strategy"
   },
@@ -1212,8 +1892,16 @@
     "definition": "Injury Prevention Initiative"
   },
   {
+    "acronym": "IQVIA",
+    "definition": "IQVIA, formerly Quintiles and IMS Health, is an American health care data provider "
+  },
+  {
     "acronym": "ircc",
     "definition": "Immigration, Refugees and Citizenship Canada"
+  },
+  {
+    "acronym": "IRIA",
+    "definition": "International River Improvements Act"
   },
   {
     "acronym": "irs",
@@ -1232,6 +1920,10 @@
     "definition": "Innovation, Science and Economic Development"
   },
   {
+    "acronym": "ISO",
+    "definition": "International Standards Organization"
+  },
+  {
     "acronym": "ispit",
     "definition": "(MOHLTC) Internal Stroke Planning and Implementation Team"
   },
@@ -1242,6 +1934,10 @@
   {
     "acronym": "it",
     "definition": "Information Technology"
+  },
+  {
+    "acronym": "ITK",
+    "definition": "Inuit Tapiriit Kanatami"
   },
   {
     "acronym": "ivr",
@@ -1324,6 +2020,10 @@
     "definition": "legal services unit"
   },
   {
+    "acronym": "LSU",
+    "definition": "Legal Services Unit"
+  },
+  {
     "acronym": "lte",
     "definition": "Long-Term Evolution"
   },
@@ -1350,6 +2050,18 @@
   {
     "acronym": "mars",
     "definition": "Measles and Rubella Surveillance"
+  },
+  {
+    "acronym": "MBC",
+    "definition": "Migratory Birds Convention"
+  },
+  {
+    "acronym": "MBCA",
+    "definition": "Migratory Birds Convention Act"
+  },
+  {
+    "acronym": "MC",
+    "definition": "Memorandum to Cabinet"
   },
   {
     "acronym": "mch",
@@ -1392,12 +2104,24 @@
     "definition": "Ministry of Energy"
   },
   {
+    "acronym": "MES",
+    "definition": "Maternity Experiences Survey"
+  },
+  {
     "acronym": "mgs",
     "definition": "Ministry of Government Services, Ontario"
   },
   {
+    "acronym": "MHACS",
+    "definition": "Mental Health and Access to Care Survey"
+  },
+  {
     "acronym": "mhaf",
     "definition": "Mental Health Accountability Framework (2003)"
+  },
+  {
+    "acronym": "MHPD",
+    "definition": "Marketed Health Products Directorate (of Health Canada)"
   },
   {
     "acronym": "mhps",
@@ -1416,8 +2140,16 @@
     "definition": "An institute specializing in deep learning"
   },
   {
+    "acronym": "MIN",
+    "definition": "Minister or Ministerial"
+  },
+  {
     "acronym": "mino",
     "definition": "Minister's Office"
+  },
+  {
+    "acronym": "MINO",
+    "definition": "Minister’s Office"
   },
   {
     "acronym": "mis",
@@ -1438,6 +2170,10 @@
   {
     "acronym": "mmah",
     "definition": "Ministry of Municipal Affairs and Housing, Ontario"
+  },
+  {
+    "acronym": "MNC",
+    "definition": "Métis National Council"
   },
   {
     "acronym": "mndmf",
@@ -1464,6 +2200,10 @@
     "definition": "Medical Officer of Health"
   },
   {
+    "acronym": "MOH",
+    "definition": "Medical Officer of Health"
+  },
+  {
     "acronym": "mohltc",
     "definition": "Ministry of Health and Long-Term Care, Ontario"
   },
@@ -1481,6 +2221,10 @@
   },
   {
     "acronym": "mou",
+    "definition": "Memorandum of Understanding"
+  },
+  {
+    "acronym": "MOU",
     "definition": "Memorandum of Understanding"
   },
   {
@@ -1516,12 +2260,20 @@
     "definition": "Master of Science"
   },
   {
+    "acronym": "MSC",
+    "definition": "Meteorological Service of Canada"
+  },
+  {
     "acronym": "mtc",
     "definition": "Ministry of Tourism and Culture, Ontario"
   },
   {
     "acronym": "mtcu",
     "definition": "Ministry of Training, Colleges and Universities, Ontario"
+  },
+  {
+    "acronym": "MtM",
+    "definition": "Memorandum to Minister"
   },
   {
     "acronym": "mto",
@@ -1540,6 +2292,14 @@
     "definition": "Monthly Variance reportng"
   },
   {
+    "acronym": "MWA",
+    "definition": "Marine Wildlife Areas"
+  },
+  {
+    "acronym": "NAAEC",
+    "definition": "North American Agreement on Environmental Cooperation"
+  },
+  {
     "acronym": "nacc",
     "definition": "National Airlines Council of Canada"
   },
@@ -1548,8 +2308,28 @@
     "definition": "(US) National Association of County and City Health Officials"
   },
   {
+    "acronym": "NACI",
+    "definition": "National Advisory Committee on Immunization"
+  },
+  {
+    "acronym": "NACOSAR",
+    "definition": "National Aboriginal Council on Species at Risk"
+  },
+  {
     "acronym": "nacrs",
     "definition": "National Ambulatory Care Reporting System"
+  },
+  {
+    "acronym": "NACRS",
+    "definition": "National Ambulatory Care Reporting System"
+  },
+  {
+    "acronym": "NAFTA",
+    "definition": "North American Free Trade Agreement"
+  },
+  {
+    "acronym": "NAPAPI",
+    "definition": "North American Plan for Animal and Pandemic Influenza"
   },
   {
     "acronym": "naqlc",
@@ -1558,6 +2338,10 @@
   {
     "acronym": "nas",
     "definition": "(US) National Academy of Sciences"
+  },
+  {
+    "acronym": "NAS",
+    "definition": "National Antiviral Stockpile"
   },
   {
     "acronym": "nba",
@@ -1588,12 +2372,24 @@
     "definition": "National Eating Disorder Information Centre"
   },
   {
+    "acronym": "NERP",
+    "definition": "Nitrous Oxide Emission Reduction Protocol"
+  },
+  {
     "acronym": "nesp",
     "definition": "National Enteric Surveillance Program"
   },
   {
+    "acronym": "NESS",
+    "definition": "National Emergency Strategic Stockpile"
+  },
+  {
     "acronym": "nfl",
     "definition": "National Footbal League"
+  },
+  {
+    "acronym": "NFP",
+    "definition": "National focal point"
   },
   {
     "acronym": "ngl",
@@ -1601,6 +2397,10 @@
   },
   {
     "acronym": "ngo",
+    "definition": "Non-governmental organization"
+  },
+  {
+    "acronym": "NGO",
     "definition": "Non-governmental organization"
   },
   {
@@ -1624,12 +2424,28 @@
     "definition": "(US) National Institutes of Health"
   },
   {
+    "acronym": "NIO",
+    "definition": "National Indigenous Organizations"
+  },
+  {
+    "acronym": "NIR",
+    "definition": "National Indigenous Representatives"
+  },
+  {
     "acronym": "nlp",
     "definition": "Natural Language Processing"
   },
   {
     "acronym": "nml",
     "definition": "National Microbial Laboratory"
+  },
+  {
+    "acronym": "NML",
+    "definition": "National Microbiology Laboratory (of the Public Health Agency of Canada)"
+  },
+  {
+    "acronym": "nmso",
+    "definition": "National Master Standing Offer"
   },
   {
     "acronym": "noc",
@@ -1652,8 +2468,20 @@
     "definition": "National Population Health Survey"
   },
   {
+    "acronym": "NPHS",
+    "definition": "National Population Health Survey"
+  },
+  {
     "acronym": "nrc",
     "definition": "Nutrition Resource Centre"
+  },
+  {
+    "acronym": "NRCan",
+    "definition": "Natural Resources Canada"
+  },
+  {
+    "acronym": "NRCFS",
+    "definition": "Nursing and Residential Care Facility Survey"
   },
   {
     "acronym": "nrg",
@@ -1664,12 +2492,36 @@
     "definition": "Day National Students Against Impaired and Distracted Driving Day"
   },
   {
+    "acronym": "NSCA",
+    "definition": "Nuclear Safety and Control Act"
+  },
+  {
     "acronym": "nsra",
     "definition": "Non-Smokers’ Rights Association"
   },
   {
     "acronym": "nssc",
     "definition": "National Sun Safety Committee"
+  },
+  {
+    "acronym": "NSWHN",
+    "definition": "National Survey of the Work and Health of Nurses"
+  },
+  {
+    "acronym": "NTI",
+    "definition": "Nunavut Tunngavik Inc."
+  },
+  {
+    "acronym": "NWA",
+    "definition": "National Wildlife Areas"
+  },
+  {
+    "acronym": "NWAC",
+    "definition": "Native Women’s Association of Canada"
+  },
+  {
+    "acronym": "NWWA",
+    "definition": "National Wildlife Week Act"
   },
   {
     "acronym": "nyc",
@@ -1804,12 +2656,20 @@
     "definition": "Open Data Institute"
   },
   {
+    "acronym": "ODS",
+    "definition": "ozone-depleting substances"
+  },
+  {
     "acronym": "odsp",
     "definition": "Ontario Disability Support Program"
   },
   {
     "acronym": "oecd",
     "definition": "Organisation for Economic Co-operation and Development"
+  },
+  {
+    "acronym": "OECD",
+    "definition": "Organization for Economic Cooperation and Development"
   },
   {
     "acronym": "oen",
@@ -1828,6 +2688,10 @@
     "definition": "Other Government Departments"
   },
   {
+    "acronym": "OH",
+    "definition": "Occupational Health"
+  },
+  {
     "acronym": "oha",
     "definition": "Ontario Hospital Association"
   },
@@ -1844,11 +2708,19 @@
     "definition": "Ontario Health Promotion Resource System (2002-2010)"
   },
   {
+    "acronym": "OHS",
+    "definition": "Ontario Health Survey"
+  },
+  {
     "acronym": "ohsc",
     "definition": "Ontario Healthy Schools Coalition"
   },
   {
     "acronym": "oic",
+    "definition": "Order in Council"
+  },
+  {
+    "acronym": "OiC",
     "definition": "Order in Council"
   },
   {
@@ -1910,6 +2782,10 @@
   {
     "acronym": "ophs",
     "definition": "Ontario Public Health Standards"
+  },
+  {
+    "acronym": "ORA(s)",
+    "definition": "Organizational Risk Assessment(s)"
   },
   {
     "acronym": "orbss",
@@ -1996,12 +2872,36 @@
     "definition": "Parent Action on Drugs"
   },
   {
+    "acronym": "PAPR(s)",
+    "definition": "Powered Air Purifying Respirator(s)"
+  },
+  {
     "acronym": "parc",
     "definition": "Physical Activity Resource Centre"
   },
   {
+    "acronym": "PCA",
+    "definition": "Parks Canada Agency"
+  },
+  {
+    "acronym": "PCAA",
+    "definition": "Parks Canada Agency Act"
+  },
+  {
     "acronym": "pcep",
     "definition": "(US) Primary Care Extension Program"
+  },
+  {
+    "acronym": "PCF",
+    "definition": "Pan-Canadian Framework"
+  },
+  {
+    "acronym": "PCFIO",
+    "definition": "Pan-Canadian Framework Implementation Office"
+  },
+  {
+    "acronym": "PCIRN",
+    "definition": "PHAC CIHR Influenza Research Network"
   },
   {
     "acronym": "pcis",
@@ -2012,8 +2912,20 @@
     "definition": "Privvy Council Office"
   },
   {
+    "acronym": "PCO",
+    "definition": "Privy Council Office"
+  },
+  {
     "acronym": "pcpsc",
     "definition": "Provincial Cancer Prevention and Screening Council"
+  },
+  {
+    "acronym": "PCR",
+    "definition": "Polymerase chain reaction"
+  },
+  {
+    "acronym": "PCRA(s)",
+    "definition": "Point of Care Risk Assessment(s)"
   },
   {
     "acronym": "pd",
@@ -2028,6 +2940,10 @@
     "definition": "Portable Document Format"
   },
   {
+    "acronym": "pH1N1",
+    "definition": "Influenza A/California/2009 (H1N1)"
+  },
+  {
     "acronym": "phac",
     "definition": "Public Health Agency of Canada; Public Health Agency of Canada; Public Health Agency of Canada"
   },
@@ -2040,8 +2956,20 @@
     "definition": "Public Health Emergency of International Concern"
   },
   {
+    "acronym": "PHEIC",
+    "definition": "Public health emergency of international concern"
+  },
+  {
     "acronym": "pheist",
     "definition": "Public Health Information, Electronic Standards and Terminology"
+  },
+  {
+    "acronym": "PHL",
+    "definition": "Public health laboratory"
+  },
+  {
+    "acronym": "PHN",
+    "definition": "Pan-Canadian Public Health Network"
   },
   {
     "acronym": "phnc",
@@ -2072,6 +3000,10 @@
     "definition": "Personal Information"
   },
   {
+    "acronym": "PIAMSB",
+    "definition": "Public and Indigenous Affairs and Ministerial Services Branch"
+  },
+  {
     "acronym": "pib",
     "definition": "Personal Information Bank"
   },
@@ -2080,12 +3012,20 @@
     "definition": "Primary Inspection Lane"
   },
   {
+    "acronym": "PILPN",
+    "definition": "Pandemic Influenza Laboratory Preparedness Network"
+  },
+  {
     "acronym": "pip",
     "definition": "Program Information Profile"
   },
   {
     "acronym": "pipeda",
     "definition": "Personal Information Protection and Electronic Documents Act"
+  },
+  {
+    "acronym": "PMB",
+    "definition": "Private Members Bill"
   },
   {
     "acronym": "pmd",
@@ -2114,6 +3054,14 @@
   {
     "acronym": "poe",
     "definition": "An American writer, poet, editor, and literary critic; Point of Entry"
+  },
+  {
+    "acronym": "POGG",
+    "definition": "Peace, Order and Good Government"
+  },
+  {
+    "acronym": "POPs",
+    "definition": "Persistent Organic Pollutants"
   },
   {
     "acronym": "ppe",
@@ -2176,12 +3124,20 @@
     "definition": "Provinces and Territories"
   },
   {
+    "acronym": "PT",
+    "definition": "Provincial and Territorial"
+  },
+  {
     "acronym": "ptcc",
     "definition": "Program Training and Consultation Centre"
   },
   {
     "acronym": "pui",
     "definition": "Patient Under Investigation"
+  },
+  {
+    "acronym": "PUMF",
+    "definition": "Public Use Microdata Files Collection"
   },
   {
     "acronym": "pw",
@@ -2208,6 +3164,10 @@
     "definition": "Quarantine Officer"
   },
   {
+    "acronym": "QP Card",
+    "definition": "Question Period Card"
+  },
+  {
     "acronym": "qrl",
     "definition": "Quit4Life"
   },
@@ -2232,6 +3192,10 @@
     "definition": "Regional Cancer Centres"
   },
   {
+    "acronym": "RCMP",
+    "definition": "Royal Canadian Mounted Police"
+  },
+  {
     "acronym": "rcps",
     "definition": "Regional cancer prevention and screening"
   },
@@ -2242,6 +3206,10 @@
   {
     "acronym": "rd",
     "definition": "Registered Dietitian"
+  },
+  {
+    "acronym": "RD",
+    "definition": "Record of Decision"
   },
   {
     "acronym": "rdims",
@@ -2292,6 +3260,14 @@
     "definition": "Registration of Canadians Abroad"
   },
   {
+    "acronym": "RPAP",
+    "definition": "Routine Practices and Additional Precautions"
+  },
+  {
+    "acronym": "RPP",
+    "definition": "Respiratory Protection Program"
+  },
+  {
     "acronym": "rrfss",
     "definition": "Rapid Risk Factor Surveillance System"
   },
@@ -2306,6 +3282,14 @@
   {
     "acronym": "rsvp",
     "definition": "Répondez s'il vous plaît"
+  },
+  {
+    "acronym": "RT-PCR",
+    "definition": "Reverse transcriptase polymerase chain reaction"
+  },
+  {
+    "acronym": "RTRA",
+    "definition": "Real Time Remote Access"
   },
   {
     "acronym": "saas",
@@ -2324,12 +3308,32 @@
     "definition": "Students Against Drunk Driving"
   },
   {
+    "acronym": "SAHCPDP",
+    "definition": "Survey on Access to Health Care and Pharmaceuticals During the Pandemic"
+  },
+  {
+    "acronym": "SAI",
+    "definition": "Survey on Aging and Independence"
+  },
+  {
     "acronym": "sao",
     "definition": "Sport Alliance of Ontario"
   },
   {
+    "acronym": "SARA",
+    "definition": "Species at Risk Act"
+  },
+  {
+    "acronym": "SARAC",
+    "definition": "Species at Risk Advisory Committee"
+  },
+  {
     "acronym": "sars",
     "definition": "Severe acute respiratory syndrome"
+  },
+  {
+    "acronym": "SARS",
+    "definition": "Severe Acute Respiratory Syndrome"
   },
   {
     "acronym": "sas",
@@ -2340,8 +3344,24 @@
     "definition": "Santé Canada; service canada"
   },
   {
+    "acronym": "SCC",
+    "definition": "Standards Council of Canada"
+  },
+  {
+    "acronym": "SCMH",
+    "definition": "Survey on COVID-19 and Mental Health"
+  },
+  {
+    "acronym": "SDGs",
+    "definition": "Sustainable Development Goals"
+  },
+  {
     "acronym": "sdhd",
     "definition": "succinate dehydrogenase complex subunit D"
+  },
+  {
+    "acronym": "SEA",
+    "definition": "Strategic Environmental Assessment"
   },
   {
     "acronym": "seii",
@@ -2368,6 +3388,10 @@
     "definition": "School Health, Action, Planning & Evaluation System (Ontario)"
   },
   {
+    "acronym": "SHCWEP",
+    "definition": "Survey on Health Care Workers' Experiences During Pandemic"
+  },
+  {
     "acronym": "shes",
     "definition": "School Health Environmental Survey"
   },
@@ -2384,12 +3408,28 @@
     "definition": "Surveillance Integration Team"
   },
   {
+    "acronym": "SJCSR",
+    "definition": "Standing Joint Committee for the Scrutiny of Regulations"
+  },
+  {
     "acronym": "skts",
     "definition": "Surveillance Knowledge Translation Standard"
   },
   {
+    "acronym": "SLCDC",
+    "definition": "Survey of Living with Chronic Diseases in Canada"
+  },
+  {
+    "acronym": "SLCPs",
+    "definition": "Short-Lived Climate Pollutants"
+  },
+  {
     "acronym": "sme",
     "definition": "subject matter expert"
+  },
+  {
+    "acronym": "SMHSE",
+    "definition": "Survey on Mental Health and Stressful Events"
   },
   {
     "acronym": "sno",
@@ -2424,6 +3464,10 @@
     "definition": "Strategic Policy Branch"
   },
   {
+    "acronym": "SPB",
+    "definition": "Strategic Policy Branch"
+  },
+  {
     "acronym": "spi",
     "definition": "Stroke Prevention Initiative"
   },
@@ -2450,6 +3494,14 @@
   {
     "acronym": "ssc",
     "definition": "Shared Services Canada"
+  },
+  {
+    "acronym": "STATCAN",
+    "definition": "Statistics Canada"
+  },
+  {
+    "acronym": "STB",
+    "definition": "Science and Technology Branch"
   },
   {
     "acronym": "stbbi",
@@ -2484,11 +3536,19 @@
     "definition": "Tresuary Board"
   },
   {
+    "acronym": "TB Sub",
+    "definition": "Treasury Board Submission"
+  },
+  {
     "acronym": "tbf",
     "definition": "to be fair"
   },
   {
     "acronym": "tbs",
+    "definition": "Treasury Board Secretariat"
+  },
+  {
+    "acronym": "TBS",
     "definition": "Treasury Board Secretariat"
   },
   {
@@ -2572,6 +3632,22 @@
     "definition": "United Nations"
   },
   {
+    "acronym": "UNCBD",
+    "definition": "United Nations Convention on Biological Diversity"
+  },
+  {
+    "acronym": "UNEA",
+    "definition": "United Nations Environment Assembly"
+  },
+  {
+    "acronym": "UNEP",
+    "definition": "United Nations Environment Program"
+  },
+  {
+    "acronym": "UNFCCC",
+    "definition": "United Nations Framework Convention on Climate Change"
+  },
+  {
     "acronym": "uoft",
     "definition": "University of Toronto"
   },
@@ -2604,6 +3680,10 @@
     "definition": "visa application centre"
   },
   {
+    "acronym": "VOCs",
+    "definition": "Volatile organic compounds"
+  },
+  {
     "acronym": "vp",
     "definition": "Vice President"
   },
@@ -2616,12 +3696,24 @@
     "definition": "Vice President's Office"
   },
   {
+    "acronym": "WAPPRIITA",
+    "definition": "Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act"
+  },
+  {
     "acronym": "wgs",
     "definition": "Whole genome sequencing"
   },
   {
     "acronym": "who",
     "definition": "World Health Organization; World Health Organization; (US) World Health Organization"
+  },
+  {
+    "acronym": "WMIA",
+    "definition": "Weather Modification Information Act"
+  },
+  {
+    "acronym": "WMO",
+    "definition": "World Meteorological Organization"
   },
   {
     "acronym": "wsib",
@@ -2640,163 +3732,7 @@
     "definition": "young professionals network"
   },
   {
-    "acronym": "CCMED",
-    "definition": "Canadian Coroners and Medical Examiners Database"
-  },
-  {
-    "acronym": "CCR",
-    "definition": "Canadian Cancer Registry"
-  },
-  {
-    "acronym": "DAD",
-    "definition": "Discharge Abstract Database"
-  },
-  {
-    "acronym": "HMHDB",
-    "definition": "Hospital Mental Health and Substance Use databases"
-  },
-  {
-    "acronym": "HMHSU",
-    "definition": "Hospital Mental Health and Substance Use databases"
-  },
-  {
-    "acronym": "HMDB",
-    "definition": "Hospital Morbidity Database"
-  },
-  {
-    "acronym": "NACRS",
-    "definition": "National Ambulatory Care Reporting System"
-  },
-  {
-    "acronym": "CCAHS",
-    "definition": "Canada COVID-19 Antibody and Health Survey"
-  },
-  {
-    "acronym": "CCHS",
-    "definition": "Canadian Community Health Survey"
-  },
-  {
-    "acronym": "CHMS",
-    "definition": "Canadian Health Measures Survey"
-  },
-  {
-    "acronym": "CHSCY",
-    "definition": "Canadian Health Survey on Children and Youth"
-  },
-  {
-    "acronym": "CHSS",
-    "definition": "Canada Health Senior Survey"
-  },
-  {
-    "acronym": "CSGVP",
-    "definition": "Canada Survey of Giving Volunteering and Participating"
-  },
-  {
-    "acronym": "HBSC",
-    "definition": "Healthy Behavior in School-Aged Children Survey"
-  },
-  {
-    "acronym": "HPS",
-    "definition": "Health Promotion Survey"
-  },
-  {
-    "acronym": "ICHCWIPC",
-    "definition": "Impacts of COVID-19 on Health Care Workers: Infection Prevention and Control"
-  },
-  {
-    "acronym": "MES",
-    "definition": "Maternity Experiences Survey"
-  },
-  {
-    "acronym": "MHACS",
-    "definition": "Mental Health and Access to Care Survey"
-  },
-  {
-    "acronym": "NPHS",
-    "definition": "National Population Health Survey"
-  },
-  {
-    "acronym": "NRCFS",
-    "definition": "Nursing and Residential Care Facility Survey"
-  },
-  {
-    "acronym": "NSWHN",
-    "definition": "National Survey of the Work and Health of Nurses"
-  },
-  {
-    "acronym": "OHS",
-    "definition": "Ontario Health Survey"
-  },
-  {
-    "acronym": "SAHCPDP",
-    "definition": "Survey on Access to Health Care and Pharmaceuticals During the Pandemic"
-  },
-  {
-    "acronym": "SAI",
-    "definition": "Survey on Aging and Independence"
-  },
-  {
-    "acronym": "SCMH",
-    "definition": "Survey on COVID-19 and Mental Health"
-  },
-  {
-    "acronym": "SHCWEP",
-    "definition": "Survey on Health Care Workers' Experiences During Pandemic"
-  },
-  {
-    "acronym": "SLCDC",
-    "definition": "Survey of Living with Chronic Diseases in Canada"
-  },
-  {
-    "acronym": "SMHSE",
-    "definition": "Survey on Mental Health and Stressful Events"
-  },
-  {
     "acronym": "YSS",
     "definition": "Youth Smoking Survey"
-  },
-  {
-    "acronym": "CVSB",
-    "definition": "Birth Data"
-  },
-  {
-    "acronym": "CVSD",
-    "definition": "Death Data"
-  },
-  {
-    "acronym": "CVSS",
-    "definition": "Stillbirth Data"
-  },
-  {
-    "acronym": "IQVIA",
-    "definition": "IQVIA, formerly Quintiles and IMS Health, is an American health care data provider "
-  },
-  {
-    "acronym": "CDH",
-    "definition": "Canadian Drug Store and Hospital Purchases Audit"
-  },
-  {
-    "acronym": "CS",
-    "definition": "Canadian CompuScript"
-  },
-  {
-    "acronym": "CIHI",
-    "definition": "Canadian Institute for Health Information"
-  },
-  {
-    "acronym": "STATCAN",
-    "definition": "Statistics Canada"
-  },
-  {
-    "acronym": "FRDC",
-    "definition": "Federal Research Data Centers"
-  },
-  {
-    "acronym": "PUMF",
-    "definition": "Public Use Microdata Files Collection"
-  },
-  {
-    "acronym": "RTRA",
-    "definition": "Real Time Remote Access"
   }
  ]
