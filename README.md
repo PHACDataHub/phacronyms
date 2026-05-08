@@ -1,11 +1,11 @@
 # What the project does
 
-Allowers users to search through a list of acronyms to find out what they stand for.
+Allowers users to search common PHAC acronyms to find out what they stand for.
 
 # How it works
 
-Acronyms are stored in data.json, which is loaded into a dynamic searchable table using a library called Datatables
+Acronyms are pulled from a sharepoint list overnight and stored in data.json, which can be searched using fuse.js or browsed using Datatables.
 
 # Who maintains and contributes to the project
 
-This project is run by the Data Transparency team at PHAC
+Maintained by Oliver Crosby at PHAC. This a work in progress. It especially lacks French acronyms. Please contribute by adding new acronyms to this [sharepoint list](https://022gc.sharepoint.com/:l:/s/InformationManagement-DataManagementServicesPeopleandculture/FMqEnjlJOkVHv4f8gGzKl94BMPqawVFjzdPR_3AifMIDVA?e=ozD4Za").

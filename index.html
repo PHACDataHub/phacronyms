@@ -22,7 +22,8 @@
     <script nomodule
         src="https://cdn.design-system.alpha.canada.ca/@cdssnc/gcds-components@latest/dist/gcds/gcds.js"></script>
 
-
+    <!-- fuse search thing -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
 
     <!-- dataTables stuff -->
 
@@ -33,15 +34,7 @@
 </head>
 
 <body>
-    <div
-        style="display:block; width:100%; background-color:#ff5733; text-align:center; font-size:20px; padding:0.5em; font-weight:bold">
-        This is just a prototype, not a real thing</div>
-
-    <gcds-header lang-href="#" skip-to-href="#">
-    </gcds-header>
-
-
-
+    <div id="prototype">This is a prototype</div>
 
     <div class="content-wrapper">
 
@@ -53,47 +46,57 @@
                         <h1 class="mb-400">
                             PHACronyms
                         </h1>
-                        <p class="mb-400">The acronyms we use at the Public health Agency of Canada</p>
-
-                        <a class="link-light" href="#" data-toggle="collapse" data-target="#moreInfo">More
-                            information</a>
-
-                        <div id="moreInfo" class="collapse">
-                            <p class="mb-400">The table below contains a list of acronyms that are used at PHAC and their definition. This is a work in progress and many acronyms are missing, especially French acronyms. If you'd like to contribute, please add or modify acronyms in this <a href="https://022gc.sharepoint.com/:l:/s/InformationManagement-DataManagementServicesPeopleandculture/FMqEnjlJOkVHv4f8gGzKl94BMPqawVFjzdPR_3AifMIDVA?e=ozD4Za">sharepoint list</a>. </p>
-                        </div>
+                        <p>This a work in progress. Please share and contribute by adding new acronyms to this <a
+                                href="https://022gc.sharepoint.com/:l:/s/InformationManagement-DataManagementServicesPeopleandculture/FMqEnjlJOkVHv4f8gGzKl94BMPqawVFjzdPR_3AifMIDVA?e=ozD4Za">sharepoint
+                                list</a>.</p>
+                        <p><a href="https://github.com/PHACDataHub/phacronyms">See project info</a>.</p>
                     </div>
                 </article>
             </section>
 
             <section>
-
                 <article class="py-450">
                     <div class="container-xl mx-auto">
-                        <!-- this is the HTML for the datables table -->
-                        <table id="phacronymTable" class="table table-striped" style="width:100%">
-                            <thead>
-                                <tr>
-                                    <th>acronym</th>
-                                    <th>definition</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                            </tbody>
-                        </table>
+                        <input type="text" id="fuseSearch" class="form-control form-control-lg mb-5"
+                            placeholder="Search acronyms…" autocomplete="off">
+                        <ul id="fuseResults" class="list-group mb-4" style="display:none;"></ul>
                     </div>
                 </article>
             </section>
-        </main>
+
+
+
+            <section class="bt-sm mt-500">
+
+
+                <article class="py-450">
+                    <div class="container-xl mx-auto">
+                        <gcds-button button-role="secondary" button-id="browse" size="small" name="browse">
+                            <a class="link-light" href="#" data-toggle="collapse" data-target="#browse">Browse
+                                acronyms</a>
+                        </gcds-button>
+
+                        <div id="browse" class="collapse">
+                            <!-- this is the HTML for the datables table -->
+                            <table id="phacronymTable" class="table table-striped" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>acronym</th>
+                                        <th>definition</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                </tbody>
+                            </table>
+                        </div>
+                </article>
+    </div>
+    </section>
+    </main>
     </div>
 
     <script src="scripts.js"></script>
     <script src="search-highlight.js"></script>
-
-
-    <!-- Footer Web component code (Angular, Vue) -->
-    <gcds-footer display="compact">
-    </gcds-footer>
-
 
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>

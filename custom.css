@@ -3,6 +3,30 @@
 @import url(https://unpkg.com/font-awesome/css/font-awesome.min.css);
 
 
+#prototype {
+    display:block; 
+    width:100%; 
+    background-color:#ff5733; 
+    text-align:center; 
+    font-size:16px; 
+    padding:.25em; 
+    font-weight:bold;
+}
+
+gcds-button {
+    padding-bottom: 1rem;
+}
+
+mt-500 {
+    -webkit-margin-before: var(--gcds-spacing-500);
+    margin-block-start: var(--gcds-spacing-500);
+}
+
+.bt-sm {
+    -webkit-border-before: var(--gcds-border-width-sm) solid currentColor;
+    border-block-start: var(--gcds-border-width-sm) solid currentColor;
+}
+
 /* Target the cells within the 'Hyperlinks' column */
 #catalogueTable td a {
   display: inline-block; /* Ensures the element takes up space */
@@ -56,10 +80,6 @@ a.toggle-vis:hover {
 
 .toggle-columns span:last-child:after {
   content:""
-}
-
-.content-wrapper {
-    margin-top: -12px;
 }
 
 a {
